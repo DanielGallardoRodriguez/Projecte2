@@ -18,7 +18,8 @@ Dispositius no connectats al SAI: llums, calefactors o altres aparells no essenc
 
 ## 3. Consulta de consum dels equips
 
-EquipQuantitatW/unitatVA/unitatTotal WTotal VAOrdinador425036010001440| Monitor                | 4         | 30       | 40        | 120     | 160      |
+EquipQuantitatW/unitatVA/unitatTotal WTotal VAOrdinador425036010001440
+| Monitor                | 4         | 30       | 40        | 120     | 160      |
 | Impressora multifunció | 1         | 200      | 300       | 200     | 300      |
 | Router                 | 1         | 15       | 20        | 15      | 20       |
 
