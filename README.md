@@ -4,6 +4,6 @@ Aquest repositori conté la documentació de les tasques 2 i 3 del projecte de s
 
 ## 📂 Contingut
 - Tasca 2
-- [Tasca 3](./tasca3/README
+- [Tasca 3](../tasca3/README)
 - Centralitzar la documentació tècnica
 - Practicar GitHub i Markdown
