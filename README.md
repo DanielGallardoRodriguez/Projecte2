@@ -5,7 +5,7 @@ Aquest repositori conté la documentació de les tasques 2 i 3 del projecte de s
 ## 📂 Contingut
 - Tasca 2
   
-- [Tasca 03](./T03: Seguretat Lògica: recuperant accés a sistemes/README.md)
+- [Tasca 03](./T03:_Seguretat_Lògica:_recuperant_accés_a_sistemes/README.md)
   
 - Centralitzar la documentació tècnica
 - Practicar GitHub i Markdown
