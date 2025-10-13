@@ -16,13 +16,9 @@ TecnoGestió S.L. és una empresa amb un petit despatx que pateix talls de submi
 
 ## 3. Consulta de consum dels equips
 
-EquipQuantitatW per unitatVA per unitatTotal WTotal VAOrdinador425036010001440
-
-| Monitor                | 4         | 30           | 40            | 120     | 160      |
-
-| Impressora multifunció | 1         | 200          | 300           | 200     | 300      |
-
-| Router                 | 1         | 15           | 20            | 15      | 20       |
+EquipQuantitatW per unitatVA per unitatTotal WTotal VAOrdinador425036010001440| Monitor                | 4         | 30           | 40             | 120     | 160      |
+| Impressora multifunció | 1         | 200          | 300            | 200     | 300      |
+| Router                 | 1         | 15           | 20             | 15      | 20       |
 
 
 **TOTAL:** 1335 W / 1920 VA
