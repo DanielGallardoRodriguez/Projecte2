@@ -24,6 +24,7 @@ Per restablir la contrasenya, s’utilitza el GRUB per iniciar el sistema amb pe
 1. Reiniciar la màquina i prémer la tecla `Esc` fins que aparegui el menú del GRUB.
 2. Editar l’entrada d’arrencada i escriure:
 
+<img width="563" height="28" alt="image" src="https://github.com/user-attachments/assets/dd6ae2a3-da01-4c2c-a34e-f4ab36f4b0f4" />
 
 linux /boot/vmlinuz-6.8.0-52-generic root=/dev/sda3 rw init=/bin/bash
 initrd /boot/initrd.img-6.8.0-52-generic
@@ -48,6 +49,9 @@ Per evitar modificacions no autoritzades del GRUB, es configura una contrasenya 
 
 
 grub-mkpasswd-pbkdf2
+
+<img width="318" height="60" alt="image" src="https://github.com/user-attachments/assets/873a9f2c-2357-4dff-a772-62e13396c4bb" />
+
 
 2. Copiar el hash generat i editar el fitxer:
 
@@ -80,6 +84,9 @@ sudo nano /etc/grub.d/10_linux
 
 
 --unrestricted
+
+<img width="575" height="259" alt="image" src="https://github.com/user-attachments/assets/89ba7825-a55c-4b1c-a065-72c5db6be92f" />
+
 
 just després de `${CLASS}`.
 
